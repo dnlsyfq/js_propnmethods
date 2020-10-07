@@ -1,3 +1,9 @@
+### String interpolation
+```
+const myPet = 'armadillo';
+console.log(`I own a pet ${myPet}.`);
+```
+
 ### String properties
 
 > 'string'.length;
