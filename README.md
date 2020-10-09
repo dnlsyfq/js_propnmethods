@@ -17,6 +17,9 @@ methods are actions we can perform
 > 'string'.toUpperCase()
 returns a string in all capital letters
 
+> 'string'.toLowerCase()
+return all lower case
+
 > 'string'..startsWith('element')
 returns the boolean
 
